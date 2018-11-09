@@ -326,11 +326,15 @@ qvals = qval$qvalues
 sum(qvals<0.1)
 ```
 
-###Factor Analysi Exercises
+###Factor Analysis Exercises
 
 ###1. Suppose you want to make an MA plot of the first two samples y = geneExpression[,1:2]. Which of the following projections gives us the projection of y so that column2 versus column 1 is an MA plot? A. y(1/√2 1/√2 1√2 −1/√2) B. y(1 1 1 −1) C. (1 1 1 −1)y D. (1 1 1 −1)y⊤ 
 
+B
+
 ###2. Say Y is M ×N, in the SVD Y = UDV⊤ which of the following is not correct? • A) DV⊤ are the new coordinates for the projection U⊤Y • B) UD are the new coordinates for the projection Y V • C) D are the coordinates of the projection U⊤Y • D) U⊤Y is a projection from an N-dimensional to M-dimensional subspace.
+
+C
 
 ###3. Based on these plots, which of the following you would say is true?
 
